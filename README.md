@@ -56,5 +56,7 @@ Auto ML :
 Algorithm name - VotingEnsamble
 Accuracy - 91.848%
 
+Auto ML performed better than Scikit-learn pipeline.
+
 ## Future work
 Since, for our project's AutoML run, in the automl_config we defined experiment_timeout_minutes=30, the experiment could have given better results if we would have given more time. We can train this model with the new data to keep this model updated.
